@@ -1,4 +1,4 @@
-package com.clinic.controller;
+package com.clinic.clinic_backend.controller;
 
 import org.springframework.web.bind.annotation.*;
 import java.time.OffsetDateTime;
